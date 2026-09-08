@@ -1,10 +1,10 @@
 {
   "product": "Shark Sim",
   "mode": "sharksim",
-  "sourceCommit": "c1ef599b8335b3481c966e12ee5b4bef4515e54c",
-  "createdAt": "2026-09-08T22:40:25.093Z",
+  "sourceCommit": "3f121362a5f61b2dc853213f3ed316fd60bb170c",
+  "createdAt": "2026-09-08T23:13:18.480Z",
   "fileCount": 1055,
-  "totalBytes": 40911597,
+  "totalBytes": 40913370,
   "files": [
     {
       "file": "src/bootstrap.js",
@@ -1818,8 +1818,8 @@
     },
     {
       "file": "src/modes/shark_sim.js",
-      "bytes": 30336,
-      "sha256": "38cadaf5a8b83928d5846af806d6c6452f3858c793f97223eee58a2db7279cf4"
+      "bytes": 30350,
+      "sha256": "038ae8043d8f4c2a5e88ec93b738a72c85a3db2a29ebba927631e184133bd243"
     },
     {
       "file": "src/modes/shark_title.js",
@@ -2183,8 +2183,8 @@
     },
     {
       "file": "src/systems/gore.js",
-      "bytes": 57323,
-      "sha256": "326ade9c7a05eae980a9518e342659c7395413d4394553f6f4d0810c0f322407"
+      "bytes": 57667,
+      "sha256": "61303420805e093b62c9f3fbe2365c96a5a89de59e849ec3f05da71710c3c038"
     },
     {
       "file": "src/systems/grapple.js",
@@ -2563,8 +2563,8 @@
     },
     {
       "file": "src/systems/wounds.js",
-      "bytes": 47257,
-      "sha256": "54e4c2a5356cf0837568af549c122a797d9ed7d210b89029ff30a67f61a99855"
+      "bytes": 47101,
+      "sha256": "42ca254e26151e05cc07bc5a763b6cefa7d37630c39f6c4fc562f8fd382847d0"
     },
     {
       "file": "src/vendor/3MFLoader.js",
@@ -2968,8 +2968,8 @@
     },
     {
       "file": "src/world/crates.js",
-      "bytes": 5207,
-      "sha256": "cdb24d0b394edf58650cf0a9158adc4bf890812d83387e4c1d6c2082e70d00b8"
+      "bytes": 5240,
+      "sha256": "f719b6b9374a8fb8ed51ba203ed0666733ecaba432fa1aed715aad6979e686fd"
     },
     {
       "file": "src/world/desertcity.js",
@@ -3068,8 +3068,8 @@
     },
     {
       "file": "src/world/props.js",
-      "bytes": 3613,
-      "sha256": "0287233a7511685a4d61276559a667e2a4d712454865e8e7e53a20835bbe498f"
+      "bytes": 3680,
+      "sha256": "f303c9c1736c0cb99955068d0dc3be7683569b8e20d7ad8ab0140aa1ffcd0fd4"
     },
     {
       "file": "src/world/razorwire.js",
@@ -3093,8 +3093,8 @@
     },
     {
       "file": "src/world/sea_craft.js",
-      "bytes": 21939,
-      "sha256": "8a994459d8cd16921bfe55cf31c942090957a835266033c02dc3cf0e9e6e822f"
+      "bytes": 23410,
+      "sha256": "79b04f506b79feaff4bda9391f834e75ab8bdb02ff7dbe509d3ae36bd1c74a40"
     },
     {
       "file": "src/world/southblock.js",
