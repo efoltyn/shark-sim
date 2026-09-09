@@ -1,10 +1,10 @@
 {
   "product": "Shark Sim",
   "mode": "sharksim",
-  "sourceCommit": "f2e409ed255b4b1b0de9f8b5646920b7345d6a1d",
-  "createdAt": "2026-09-08T23:32:48.964Z",
+  "sourceCommit": "c3fe233e89db81e8d49414a7ea81210b0bb7b16b",
+  "createdAt": "2026-09-09T00:22:41.224Z",
   "fileCount": 1055,
-  "totalBytes": 40914295,
+  "totalBytes": 40914424,
   "files": [
     {
       "file": "src/bootstrap.js",
@@ -1413,8 +1413,8 @@
     },
     {
       "file": "src/city/wildlife/aquatic.js",
-      "bytes": 78689,
-      "sha256": "37d8a88db5af8b1ea5aab0310bb0bb69c914e9a0ad9dc90e031d72f8ce6b4241"
+      "bytes": 78818,
+      "sha256": "fa0b19d6785fef4c90d69cd187271207b10c38fadff2697cd5aaaf83db22b93e"
     },
     {
       "file": "src/city/wildlife/bears.js",
