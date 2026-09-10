@@ -1,10 +1,10 @@
 {
   "product": "Shark Sim",
   "mode": "sharksim",
-  "sourceCommit": "05c97926280f57818bcbe1e45a3bb4f9f95d8ab9",
-  "createdAt": "2026-09-09T01:21:05.940Z",
+  "sourceCommit": "5f23b497e68161d4af24094b7706f6ce942ff721",
+  "createdAt": "2026-09-10T01:24:53.460Z",
   "fileCount": 1055,
-  "totalBytes": 40914968,
+  "totalBytes": 40920887,
   "files": [
     {
       "file": "src/bootstrap.js",
@@ -1413,8 +1413,8 @@
     },
     {
       "file": "src/city/wildlife/aquatic.js",
-      "bytes": 79362,
-      "sha256": "6509acd76339ac2a526a8c4c26080ef949501b4ee3d7f090a55a8cd9d229e6f4"
+      "bytes": 82586,
+      "sha256": "9db6841fe78ff7cc3c4f9908368187ffab8182a67e3d657dfb0ff770d9e66968"
     },
     {
       "file": "src/city/wildlife/bears.js",
@@ -1468,8 +1468,8 @@
     },
     {
       "file": "src/city/wildlife_orca.js",
-      "bytes": 58762,
-      "sha256": "006fe4ea2de79b372480885da47af9cafb83e8c0ba60f2c0b7c770572921eb36"
+      "bytes": 61457,
+      "sha256": "a2e4c60d8647cf7477dd4315e22734839a2207d792835b1d57e28d6f37c3dccc"
     },
     {
       "file": "src/city/wildlife_rig.js",
